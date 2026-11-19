@@ -1,5 +1,5 @@
 body {
-    background-color: #c1d4c1; 
+    background-color: #d4d4d4; 
     font-family: Raleway, sans-serif; 
     margin: 0;
 }
@@ -11,15 +11,65 @@ body {
 }
 
 h1 {
-    padding-left: 25px;
+    padding-left: 45px;
 
     position: absolute;
     top: 0px;
     font-size: 100px
 }
 
-p {
-    position: relative;
+h2 {    
+    /* position: relative;
     top: 100px;
+    left: 50px; */
+    padding: 80px 0 0 50px;
+}
+
+p {
+
+}
+
+.op {
+    padding: 10px 0 0 50px;
+    
+}
+
+.ph {
+    position: absolute;
+    left: 510px;
+    top: 200px;
+}
+
+.skills {
+    padding: 10px 0 0 50px;
+    /* position: absolute;
+    top: 285px;
+    font-size: 16px */
+}
+
+.know {
+    position: relative;
+    top: -82px;
+    left: 250px;
+    font-size: 16px
+}
+.wk {
+    position: relative;
+    top: -100px;
+}
+.works {
+    position: relative;
+    top: -100px;
     left: 50px;
+    font-size: 16px
+}
+
+.kt {
+    padding: 0 0 0 50px;
+}
+
+.VK {
+    position: absolute;
+    top: 1688px;
+    left: 250px; 
 }
